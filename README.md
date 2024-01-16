@@ -1,16 +1,7 @@
-# responsive
+flutter responsive ui | طراحی ریسپانسیو در فلاتر
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+we explore the best practices for creating a responsive user interface in Flutter.
+From utilizing MediaQuery to using LayoutBuilder and constraints,
+we cover everything you need to know to ensure your app looks great on any device.
+Whether you're a beginner or an experienced developer,
+will provide you with valuable insights and practical tips for building a responsive UI in Flutter.
